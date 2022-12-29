@@ -33,9 +33,5 @@
         "@rrios-dev/paradigma-cli": "^0.6.2",
         "commit-config": "*",
         "husky": "^8.0.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": ""
     }
 }
